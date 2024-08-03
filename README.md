@@ -140,14 +140,14 @@ Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-
 * Find the DNS of the load balancer you created.
 * Copy the DNS name and paste it into your browser.
 <p align="center">
-<img src="images/dns.JPG"  height="200" width="700" />
+<img src="images/dns.JPG"  height="200" width="800" />
 </p> 
 
 * You should see this if you have successfully followed the steps.
 <p align="center">
-<img src="images/apache2.JPG"  height="600" width="600" />
+<img src="images/apache2.JPG"  height="600" width="500" />
 </p> 
 
 <p align="center">
-<img src="images/website.JPG"  height="600" width="600" />
+<img src="images/website.JPG"  height="600" width="500" />
 </p>

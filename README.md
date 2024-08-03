@@ -28,7 +28,7 @@
 * Set VPC endpoints to None.
 * Click Create VPC.
 <p align="center">
-<img src="images/wordpress.JPG"  height="200" width="450" />
+<img src="images/wordpress.JPG"  height="200" width="700" />
 </p> 
 
 ## 2. Launch two EC2 instances
@@ -49,7 +49,7 @@
 * Select a private subnet in a different availability zone (not the same as the first one).
 * Select the existing security group you just named.
 <p align="center">
-<img src="images/wordpress.JPG"  height="200" width="600" />
+<img src="images/network.JPG"  height="200" width="600" />
 </p> 
 
 ## 3. Set up an ELB (Application Load Balancer)

@@ -28,7 +28,7 @@
 * Set VPC endpoints to None.
 * Click Create VPC.
 <p align="center">
-<img src="images/wordpress.JPG"  height="300" width="700" />
+<img src="images/wordpress.JPG"  height="400" width="700" />
 </p> 
 
 ## 2. Launch two EC2 instances

@@ -147,5 +147,5 @@ Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-
 </p> 
 
 <p align="center">
-<img src="data/images/website.JPG"  height="600" width="600" />
+<img src="images/website.JPG"  height="600" width="600" />
 </p>

@@ -49,7 +49,7 @@
 * Select a private subnet in a different availability zone (not the same as the first one).
 * Select the existing security group you just named.
 <p align="center">
-<img src="images/network.JPG"  height="200" width="600" />
+<img src="images/network.JPG"  height="700" width="600" />
 </p> 
 
 ## 3. Set up an ELB (Application Load Balancer)
@@ -92,7 +92,7 @@
 
 ### Your summary should look like this.
 <p align="center">
-<img src="images/alb.JPG"  height="400" width="600" />
+<img src="images/summary.JPG"  height="400" width="600" />
 </p> 
 
 * In the left pane, find Network & Security > Security Groups.
@@ -140,7 +140,7 @@ Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-
 * Find the DNS of the load balancer you created.
 * Copy the DNS name and paste it into your browser.
 <p align="center">
-<img src="images/alb.JPG"  height="400" width="600" />
+<img src="images/dns.JPG"  height="400" width="600" />
 </p> 
 
 * You should see this if you have successfully followed the steps.

@@ -92,7 +92,7 @@
 
 ### Your summary should look like this.
 <p align="center">
-<img src="images/summary.JPG"  height="400" width="600" />
+<img src="images/summary.JPG"  height="200" width="600" />
 </p> 
 
 * In the left pane, find Network & Security > Security Groups.

@@ -49,7 +49,7 @@
 * Select a private subnet in a different availability zone (not the same as the first one).
 * Select the existing security group you just named.
 <p align="center">
-<img src="images/wordpress.JPG"  height="700" width="600" />
+<img src="images/wordpress.JPG"  height="200" width="600" />
 </p> 
 
 ## 3. Set up an ELB (Application Load Balancer)
@@ -62,7 +62,7 @@
 * Under Availability zones, select your AZ and pick your public subnet.
 * Repeat this for both AZs.
 <p align="center">
-<img src="images/alb.JPG"  height="700" width="600" />
+<img src="images/alb.JPG"  height="600" width="600" />
 </p> 
 * Under security groups:
 * Click Create a new security group (this will open a new window).

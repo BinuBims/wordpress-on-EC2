@@ -61,9 +61,11 @@
 * Select the VPC you just created.
 * Under Availability zones, select your AZ and pick your public subnet.
 * Repeat this for both AZs.
+  
 <p align="center">
 <img src="images/alb.JPG"  height="600" width="600" />
 </p> 
+
 * Under security groups:
 * Click Create a new security group (this will open a new window).
 * Name and describe your security group.

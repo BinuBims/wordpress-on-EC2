@@ -2,7 +2,7 @@
 
 ### ARCHITECTURE
 <p align="center">
-<img src="data/images/diagram.JPG"  height="400" width="600" />
+<img src="images/diagram.JPG"  height="400" width="600" />
 </p>
 
 ### AWS services and Tools
@@ -28,7 +28,7 @@
 * Set VPC endpoints to None.
 * Click Create VPC.
 <p align="center">
-<img src="data/images/wordpress.JPG"  height="200" width="450" />
+<img src="images/wordpress.JPG"  height="200" width="450" />
 </p> 
 
 ## 2. Launch two EC2 instances
@@ -49,7 +49,7 @@
 * Select a private subnet in a different availability zone (not the same as the first one).
 * Select the existing security group you just named.
 <p align="center">
-<img src="data/images/wordpress.JPG"  height="700" width="600" />
+<img src="images/wordpress.JPG"  height="700" width="600" />
 </p> 
 
 ## 3. Set up an ELB (Application Load Balancer)
@@ -62,7 +62,7 @@
 * Under Availability zones, select your AZ and pick your public subnet.
 * Repeat this for both AZs.
 <p align="center">
-<img src="data/images/alb.JPG"  height="700" width="600" />
+<img src="images/alb.JPG"  height="700" width="600" />
 </p> 
 * Under security groups:
 * Click Create a new security group (this will open a new window).
@@ -90,7 +90,7 @@
 
 ### Your summary should look like this.
 <p align="center">
-<img src="data/images/alb.JPG"  height="400" width="600" />
+<img src="images/alb.JPG"  height="400" width="600" />
 </p> 
 
 * In the left pane, find Network & Security > Security Groups.
@@ -138,12 +138,12 @@ Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-
 * Find the DNS of the load balancer you created.
 * Copy the DNS name and paste it into your browser.
 <p align="center">
-<img src="data/images/alb.JPG"  height="400" width="600" />
+<img src="images/alb.JPG"  height="400" width="600" />
 </p> 
 
 * You should see this if you have successfully followed the steps.
 <p align="center">
-<img src="data/images/apache2.JPG"  height="600" width="600" />
+<img src="images/apache2.JPG"  height="600" width="600" />
 </p> 
 
 <p align="center">

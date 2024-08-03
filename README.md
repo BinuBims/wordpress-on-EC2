@@ -145,9 +145,9 @@ Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-
 
 * You should see this if you have successfully followed the steps.
 <p align="center">
-<img src="images/apache2.JPG"  height="600" width="500" />
+<img src="images/apache2.JPG"  height="500" width="700" />
 </p> 
 
 <p align="center">
-<img src="images/website.JPG"  height="600" width="500" />
+<img src="images/website.JPG"  height="500" width="700" />
 </p>

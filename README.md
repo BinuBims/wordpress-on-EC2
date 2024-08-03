@@ -131,7 +131,7 @@
   
 * Refresh the EC2 Instance Connect endpoint and click Connect (this will open a new terminal).
 
-Follow [this article](.https://hackernoon.com/how-to-install-wordpress-on-linux-server-a-step-by-step-guide) to install wordpress on your ubuntu server.
+Follow [this article](https://hackernoon.com/how-to-install-wordpress-on-linux-server-a-step-by-step-guide) to install wordpress on your ubuntu server.
 
 ### You should install wordpress in both EC2s
 
